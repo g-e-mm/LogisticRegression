@@ -10,7 +10,7 @@ bioinformatics.
 <br><br>
 ## **Problem Statement:** <br>
 Predict how likely it is that the people will take an H1N1 flu vaccine using Logistic
-Regression.
+Regression with MLE and SGD
 <br><br>
 ## **Dataset Information:** <br>
 The data is about the technical specifications of cars.
